@@ -1,0 +1,2 @@
+rootProject.name='Tamilchat1'
+include ':app'
